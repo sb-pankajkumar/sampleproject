@@ -1,2 +1,2 @@
-# sampleproject
+# github prohject
 name panajkumar
